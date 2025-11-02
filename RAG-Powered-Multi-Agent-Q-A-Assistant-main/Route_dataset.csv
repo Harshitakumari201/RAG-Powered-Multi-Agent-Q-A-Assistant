@@ -1,0 +1,101 @@
+query,intent
+What is 45 + 19?,calculator
+Calculate 123 * 4,calculator
+What is 72 divided by 8?,calculator
+Add 77 and 33,calculator
+What is 5 squared?,calculator
+What's the result of 18 - 9?,calculator
+Multiply 6 by 9,calculator
+Evaluate 2 * (3 + 4),calculator
+Solve 100 / (4 * 5),calculator
+Can you calculate 17 + 28 for me?,calculator
+What is 15 * 3?,calculator
+Can you compute 75 minus 26?,calculator
+How much is 120 divided by 4?,calculator
+Find the product of 8 and 9,calculator
+What's 30% of 250?,calculator
+Subtract 45 from 90,calculator
+How many is 14 times 2?,calculator
+Multiply 15 by 6,calculator
+Evaluate 3 + 8 * 2,calculator
+What’s the result of 5 squared plus 3?,calculator
+Calculate 2 to the power of 5,calculator
+How much is 10 raised to the power of 3?,calculator
+Add together 33 and 67,calculator
+"If I have 100 apples and give away 25, how many are left?",calculator
+How much change will I get from $50 after spending $18.45?,calculator
+What's the square root of 144?,calculator
+What is 9 factorial?,calculator
+What is 25 percent of 560?,calculator
+What do you get when you divide 180 by 12?,calculator
+"If a book costs $18 and I buy 3, what’s the total cost?",calculator
+Define recursion,dictionary
+What does polymorphism mean?,dictionary
+Explain the term backpropagation,dictionary
+Meaning of entropy,dictionary
+What is a compiler?,dictionary
+Define blockchain,dictionary
+Tell me the meaning of machine learning,dictionary
+What does latency mean in networking?,dictionary
+Explain what an API is,dictionary
+Define algorithm,dictionary
+What does recursion mean?,dictionary
+Define polymorphism in simple terms,dictionary
+Explain overfitting,dictionary
+Tell me what 'encapsulation' means,dictionary
+Give me the meaning of normalization,dictionary
+What is the definition of machine learning?,dictionary
+What does abstraction mean in OOP?,dictionary
+Can you define backpropagation?,dictionary
+I want a simple definition of AI,dictionary
+Define latency in networking,dictionary
+Explain what a compiler does,dictionary
+What is a REST API?,dictionary
+What's the meaning of modularity?,dictionary
+What is entropy in information theory?,dictionary
+Define gradient descent,dictionary
+What does inheritance mean in programming?,dictionary
+Define throughput,dictionary
+What is the meaning of 'bias' in machine learning?,dictionary
+How would you define heuristic?,dictionary
+Explain the term bandwidth,dictionary
+What is the company’s refund policy?,rag
+Tell me about your return policy,rag
+How can I track my order?,rag
+What are the shipping options available?,rag
+When will I receive my package?,rag
+How do I cancel a subscription?,rag
+What services does your product offer?,rag
+Tell me more about your pricing plans,rag
+What are the warranty terms?,rag
+How do I reach customer support?,rag
+Can I upgrade my plan later?,rag
+Is international shipping supported?,rag
+Do you offer student discounts?,rag
+What payment methods do you accept?,rag
+Where is your company located?,rag
+Can I return an item after 30 days?,rag
+What does your premium plan include?,rag
+How secure is my data?,rag
+Who do I contact for billing issues?,rag
+Is there a trial period?,rag
+What is your refund process?,rag
+How long does delivery usually take?,rag
+Can I cancel my order after it's shipped?,rag
+Tell me about your company's vision and mission,rag
+What are the key features of the premium plan?,rag
+Where can I find the privacy policy?,rag
+Do you offer any loyalty programs?,rag
+Can you summarize the support terms?,rag
+What are the benefits of the enterprise plan?,rag
+When is customer support available?,rag
+Explain the onboarding process for new users,rag
+What happens if I exceed my usage limit?,rag
+Do you provide analytics in the dashboard?,rag
+Can I use this product in multiple regions?,rag
+What are the common use cases for this software?,rag
+How do I reset my account password?,rag
+Can I migrate data from another platform?,rag
+Is there a knowledge base or documentation available?,rag
+Where can I download the latest product brochure?,rag
+Does the service comply with GDPR?,rag

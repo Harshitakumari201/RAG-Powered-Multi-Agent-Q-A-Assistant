@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>EcoAssist | EcoTech Gear</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="chat-container">
+        <header class="chat-header">
+            <h1>⚡ EcoAssist</h1>
+            <p>Your smart assistant for <strong>EcoCharge Portable Solar Battery</strong><br><span class="tagline">by EcoTech Gear</span></p>
+        </header>
+        <div class="chat-box">
+            {% for role, message in chat_history|reverse %}
+                <div class="message {{ role }}">
+                    {{ message.replace('\n', '<br>')|safe }}
+                </div>
+            {% endfor %}
+        </div>
+        <form method="POST" class="input-box">
+            <input type="text" name="query" placeholder="Ask EcoAssist anything..." required>
+            <input type="submit" value="⚡ Ask">
+        </form>
+    </div>
+</body>
+</html>
